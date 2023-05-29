@@ -1,0 +1,21 @@
+<svg width="1695" height="330" viewBox="0 0 1695 330" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_b_514_8400)">
+<path d="M1459.58 94.5825L1553.75 94.5825L1553.75 0.416252L1459.58 0.416244L1459.58 94.5825Z" fill="white" fill-opacity="0.4"/>
+<path d="M1506.67 282.922L1647.92 141.667L1695 141.667L1695 47.4992L1600.83 47.4992L1600.83 47.5029L1412.5 235.834L1412.5 235.834L1412.5 330L1506.67 330L1506.67 282.922Z" fill="white" fill-opacity="0.4"/>
+<path d="M1035.83 330L1130 330L1130 235.834L1035.83 235.834L941.666 235.834L941.666 141.667L988.749 94.5824L1130 94.5824L1130 0.416138L941.666 0.416121L847.499 94.5824L847.499 235.834L847.499 330L941.666 330L1035.83 330Z" fill="white" fill-opacity="0.4"/>
+<path d="M0.000291123 141.667L94.1666 235.833L188.335 235.833L188.335 330L282.501 330L282.501 0.415894L188.335 0.415885L188.335 141.667L141.252 141.667L70.6259 71.0415L0.000291123 141.667Z" fill="white" fill-opacity="0.4"/>
+<path d="M376.666 141.668L423.749 94.5829L565 94.583L565 0.416687L376.666 0.416671L282.499 94.5829L282.499 235.834L376.666 235.834L376.666 141.668Z" fill="white" fill-opacity="0.4"/>
+<path d="M470.834 330L565 330L565 235.833L470.834 235.833L470.834 330Z" fill="white" fill-opacity="0.4"/>
+<path d="M1224.16 141.668L1271.25 94.5832L1412.5 94.5832L1412.5 0.416931L1224.16 0.416915L1130 94.5832L1130 235.834L1224.16 235.834L1224.16 141.668Z" fill="white" fill-opacity="0.4"/>
+<path d="M1318.33 330L1412.5 330L1412.5 235.834L1318.33 235.834L1318.33 330Z" fill="white" fill-opacity="0.4"/>
+<path d="M659.164 330L753.33 330L753.33 235.833L847.498 235.833L847.498 141.667L659.164 141.667L706.247 94.5822L847.498 94.5822L847.498 0.415894L659.164 0.415877L564.997 94.5821L564.997 141.667L564.997 235.833L659.164 235.833L659.164 330Z" fill="white" fill-opacity="0.4"/>
+</g>
+<defs>
+<filter id="filter0_b_514_8400" x="-72" y="-71.5842" width="1839" height="473.584" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feGaussianBlur in="BackgroundImageFix" stdDeviation="36"/>
+<feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_514_8400"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur_514_8400" result="shape"/>
+</filter>
+</defs>
+</svg>
